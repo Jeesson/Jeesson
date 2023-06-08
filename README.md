@@ -16,22 +16,10 @@
 [![VUE](https://img.shields.io/badge/vue.js-white?style=for-the-badge&logo=vue.js&logoColor=black)](https://github.com/jeesson)
 
 ### OS
+
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/jeesson)
 [![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=Linux&logoColor=black)](https://github.com/jeesson)
 
-<p align="center">
-  🔭 I’m currently working on last repo<br>
-  🌱 I’m learning drupal / docksal / vue-3 / electron
-  <!-- 👯 I’m looking to collaborate on ... -->
-  <!-- 🤔 I’m looking for help with ... -->
-  <!-- 💬 Ask me about ... -->
-  <!-- 📫 How to reach me: ... -->
-  <!-- 😄 Pronouns: ... -->
-  <!-- ⚡ Fun fact: ... -->
-</p>
+### Profile views
 
-<p align="center">
-  <a href="https://github.com/jeesson">
-    <img src="https://komarev.com/ghpvc/?username=jeesson&color=000000&style=for-the-badge" />
-  </a>
-</p>
+[![Linux](https://komarev.com/ghpvc/?username=jeesson&color=000000&style=for-the-badge&label=how+interesting)](https://github.com/jeesson)
