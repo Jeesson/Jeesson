@@ -2,7 +2,7 @@
 
 <p align="center">
   🔭 I’m currently working on last repo :D<br>
-  🌱 I’m currently learning drupal / docksal / vue-3 / electron
+  🌱 I’m learning <img src="https://img.shields.io/badge/Drupal-white?style=for-the-badge&logo=drupal"> / docksal / vue-3 / electron
   <!-- 👯 I’m looking to collaborate on ... -->
   <!-- 🤔 I’m looking for help with ... -->
   <!-- 💬 Ask me about ... -->
