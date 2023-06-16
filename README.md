@@ -5,6 +5,7 @@
 [![PYTHON](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)](https://github.com/jeesson)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/jeesson)
 [![TYPESCRIPT](https://img.shields.io/badge/typescipt-white?style=for-the-badge&logo=typescript&logoColor=black)](https://github.com/jeesson)
+[![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=PHP&logoColor=black)](https://github.com/jeesson)
 
 ### Technologies & Frameworks
 
