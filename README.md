@@ -1,26 +1,41 @@
 <h1 align="center">Hi, I'm Jeesson! 👋</h1>
 
-### Languages
+Here's a list of the languages, technologies, and tools I use.
 
-[![PYTHON](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)](https://github.com/jeesson)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/jeesson)
-[![TYPESCRIPT](https://img.shields.io/badge/typescipt-white?style=for-the-badge&logo=typescript&logoColor=black)](https://github.com/jeesson)
-[![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=PHP&logoColor=black)](https://github.com/jeesson)
+### Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/7af3e645f36b447c016b9b8a509119cda22779899d2ef01072db38a01e9a8e69/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c74732c707974686f6e2c706f737467726573716c2c73716c697465267468656d653d6461726b">
+  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/8838e6f88ea8f0fadef80c5831498e40f3231baa737c8881d14a2c6b7688537f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c74732c707974686f6e2c706f737467726573716c2c73716c697465267468656d653d6c69676874">
+  <img src="https://camo.githubusercontent.com/8838e6f88ea8f0fadef80c5831498e40f3231baa737c8881d14a2c6b7688537f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c74732c707974686f6e2c706f737467726573716c2c73716c697465267468656d653d6c69676874">
+</picture>
 
 ### Technologies & Frameworks
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/7aa930fccf1061215d06e11786e0a89feeef984dad730e014a25401d8a5cedab/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c736173732c7461696c77696e642c626f6f7473747261702c646f636b65722c656c656374726f6e2c766974652c7675652c70696e6961267468656d653d6461726b">
+  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/8937a7e6bb3600d3e97a0f7494b35e388040fb28fa9065e7ef80a4274f49f6a6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c736173732c7461696c77696e642c626f6f7473747261702c646f636b65722c656c656374726f6e2c766974652c7675652c70696e6961267468656d653d6c69676874">
+  <img src="https://camo.githubusercontent.com/8937a7e6bb3600d3e97a0f7494b35e388040fb28fa9065e7ef80a4274f49f6a6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c736173732c7461696c77696e642c626f6f7473747261702c646f636b65722c656c656374726f6e2c766974652c7675652c70696e6961267468656d653d6c69676874">
+</picture>
 
-[![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jeesson)
-[![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jeesson)
-[![ELECTRON](https://img.shields.io/badge/electron-white?style=for-the-badge&logo=electron&logoColor=black)](https://github.com/jeesson)
-[![DOCKER](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=black)](https://github.com/jeesson)
-[![DRUPAL](https://img.shields.io/badge/drupal-white?style=for-the-badge&logo=drupal&logoColor=black)](https://github.com/jeesson)
-[![VUE](https://img.shields.io/badge/vue.js-white?style=for-the-badge&logo=vue.js&logoColor=black)](https://github.com/jeesson)
+### Design
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/3ad50fd5202972f9c243187901ad431d826918026fbad3f6944d62950ffd0f28/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d61652c70732c6669676d612c626c656e646572267468656d653d6461726b">
+  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/b0423482366af13719de3e05f48ea4c08ed16adc6a1f249a0c69e42601145cc3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d61652c70732c6669676d612c626c656e646572267468656d653d6c69676874">
+  <img src="https://camo.githubusercontent.com/b0423482366af13719de3e05f48ea4c08ed16adc6a1f249a0c69e42601145cc3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d61652c70732c6669676d612c626c656e646572267468656d653d6c69676874">
+</picture>
+
+### Tools
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/409db2e9f19ad2f9d1df14e12154596a420e8c288d4993245243f4a0e97def8a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646973636f72642c6e6f74696f6e2c6769742c6e706d2c62756e267468656d653d6461726b">
+  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/5ee532c5906773eb94c0880820471d142987c4132af5e2fcee38785a11e29a1f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646973636f72642c6e6f74696f6e2c6769742c6e706d2c62756e267468656d653d6c69676874">
+  <img src="https://camo.githubusercontent.com/5ee532c5906773eb94c0880820471d142987c4132af5e2fcee38785a11e29a1f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646973636f72642c6e6f74696f6e2c6769742c6e706d2c62756e267468656d653d6c69676874">
+</picture>
 
 ### OS
-
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/jeesson)
-[![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=Linux&logoColor=black)](https://github.com/jeesson)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/a0e334583e1b2c084097c606eede0813668382702b324cbec255bf06140fdf46/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d77696e646f77732c7562756e74752c6d696e74267468656d653d6461726b">
+  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/40b13a11f032385498c7b4d4e4f5a7956ddfae5b7a6e75702513cb1fe9aa1b68/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d77696e646f77732c7562756e74752c6d696e74267468656d653d6c69676874">
+  <img src="https://camo.githubusercontent.com/40b13a11f032385498c7b4d4e4f5a7956ddfae5b7a6e75702513cb1fe9aa1b68/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d77696e646f77732c7562756e74752c6d696e74267468656d653d6c69676874">
+</picture>
 
 ### Profile views
-
 [![Linux](https://komarev.com/ghpvc/?username=jeesson&color=000000&style=for-the-badge&label=how+interesting)](https://github.com/jeesson)
