@@ -14,8 +14,11 @@
 #### Tools
 <img src="https://go-skill-icons.vercel.app/api/icons?i=discord,webflow,obsidian,notion,git,npm,bun&theme=light&titles=true">
 
+#### Learning
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tauri,supabase,nuxt&theme=light&titles=true">
+
 #### Want to learn
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tauri,threejs,laravel,firebase,supabase&theme=light&titles=true">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=threejs,laravel,firebase&theme=light&titles=true">
 
 #### Operating Systems (OS)
 <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,mint&theme=light&titles=true">
