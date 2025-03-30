@@ -18,7 +18,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=tauri,supabase,nuxt&theme=light&titles=true">
 
 #### Want to learn
-<img src="https://go-skill-icons.vercel.app/api/icons?i=threejs,laravel,firebase&theme=light&titles=true">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=threejs,laravel,firebase,unocss&theme=light&titles=true">
 
 #### Operating Systems (OS)
 <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,mint&theme=light&titles=true">
